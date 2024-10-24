@@ -1,0 +1,2 @@
+GT4500,1,0,0,0 # the second store is empty
+TORPEDO,ALL  # fire just from the first store, second is empty
